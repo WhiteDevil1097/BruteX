@@ -12,7 +12,6 @@ print(r"  |    |  _/\_  __ \  |  \   __\/ __ \ \     / ")
 print(r"  |    |   \ |  | \/  |  /|  | \  ___/ /     \ ")
 print(r"  |______  / |__|  |____/ |__|  \___  >___/\  \ ")
 print(r"         \/                         \/      \_/ ")
-print(r"         »»»Devoloper By White_Devil««« ")
 print()
 while True:
     # We will determine the type of hash to be cracked
