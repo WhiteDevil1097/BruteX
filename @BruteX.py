@@ -16,7 +16,7 @@ print()
 while True:
     # We will determine the type of hash to be cracked
     print()
-    print ("Enter Type of Hash to be crndhebdhevacked (Select 3 to quit the script)!\n 1. SHA1 Hash \n 2. MD5 Hash \n 3. Quit Script")
+    print ("Enter Type of Hash to be cracked (Select 3 to quit the script)!\n 1. SHA1 Hash \n 2. MD5 Hash \n 3. Quit Script")
     print()
     k = input(">")
 
