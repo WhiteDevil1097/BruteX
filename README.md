@@ -1,4 +1,4 @@
-# Python Password Cracker
+# Hash Python Password Cracker
 <img src="BruteX.jpg"><br>
 >A CLI BruteX tool for cracking common passwords
 
